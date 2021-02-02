@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "hearbeat",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authddbstreamingui55a1e8cf",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

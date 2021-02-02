@@ -1,0 +1,62 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ddbstreamingui-dev-225140-authRole",
+      "UnauthRoleArn": "arn:aws:iam::341259728059:role/amplify-ddbstreamingui-dev-225140-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::341259728059:role/amplify-ddbstreamingui-dev-225140-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-ddbstreamingui-dev-225140-deployment",
+      "UnauthRoleName": "amplify-ddbstreamingui-dev-225140-unauthRole",
+      "StackName": "amplify-ddbstreamingui-dev-225140",
+      "StackId": "arn:aws:cloudformation:us-west-2:341259728059:stack/amplify-ddbstreamingui-dev-225140/016c8150-0c4f-11eb-9e7a-0660b4a22d75",
+      "AmplifyAppId": "d1qga7qv1f9yb6"
+    },
+    "categories": {
+      "auth": {
+        "ddbstreamingui15aebfdf": {}
+      }
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ddbstreamingui-prod-141813-authRole",
+      "UnauthRoleArn": "arn:aws:iam::341259728059:role/amplify-ddbstreamingui-prod-141813-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::341259728059:role/amplify-ddbstreamingui-prod-141813-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-ddbstreamingui-prod-141813-deployment",
+      "UnauthRoleName": "amplify-ddbstreamingui-prod-141813-unauthRole",
+      "StackName": "amplify-ddbstreamingui-prod-141813",
+      "StackId": "arn:aws:cloudformation:us-west-2:341259728059:stack/amplify-ddbstreamingui-prod-141813/da9ede90-2dd9-11eb-9014-06cd35e7b099",
+      "AmplifyAppId": "d4r7vudqgrhz3"
+    },
+    "categories": {
+      "auth": {
+        "ddbstreamingui15aebfdf": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d4r7vudqgrhz3",
+          "type": "manual"
+        }
+      }
+    }
+  },
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ddbstreamingui-main-235758-authRole",
+      "UnauthRoleArn": "arn:aws:iam::219061173505:role/amplify-ddbstreamingui-main-235758-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::219061173505:role/amplify-ddbstreamingui-main-235758-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ddbstreamingui-main-235758-deployment",
+      "UnauthRoleName": "amplify-ddbstreamingui-main-235758-unauthRole",
+      "StackName": "amplify-ddbstreamingui-main-235758",
+      "StackId": "arn:aws:cloudformation:us-east-1:219061173505:stack/amplify-ddbstreamingui-main-235758/5fe483f0-652c-11eb-94bd-0e3caa6b31bf",
+      "AmplifyAppId": "dl43wajg32571"
+    },
+    "categories": {
+      "auth": {
+        "ddbstreamingui55a1e8cf": {}
+      }
+    }
+  }
+}
